@@ -15,7 +15,6 @@ body{
     height: 100px;
     margin: auto;
     text-align: center;
-    
 }
 
 .head {
@@ -23,12 +22,9 @@ body{
     font-weight: bold;
 }
 
-#next { widows: 100px;
-
-}
+#next { widows: 100px;}
 .next { 
     width :70px;
-
 }
 #butt {
     float: right;
