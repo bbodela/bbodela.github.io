@@ -1,9 +1,8 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgb(243, 228, 255);
+    background-color: rgb(241, 224, 255);
     text-align : center;
-    align-content: center;
 }
         
 #hi {
